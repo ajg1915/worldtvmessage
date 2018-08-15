@@ -1,0 +1,9 @@
+2
+||| 
+                                                                                                                                                                                                                            "World TV Media Center Notifier" 
+[COLORorange][B]~ Welcome to Our Sports Center ~ [/B][/COLOR]  
+
+ ___Menu Update Status Worldtv _____ [COLORlimegreen]ONLINE[/COLOR]        
+This here is our News Alert System We Will Update and Tell you About all Sports Feeds 
+[COLORred]Offline[/COLOR] [COLORlimegreen]Online[/COLOR]
+
